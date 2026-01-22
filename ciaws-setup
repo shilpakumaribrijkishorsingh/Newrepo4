@@ -1,0 +1,13 @@
+AWS CI Pipeline Setup using Jenkins
+Step 1: Jenkins Setup on AWS
+Step2: CI Pipeline Stages
+Step3:Build Stage
+Step4:Test Stage
+Step5: Deploy Stage
+Step6: Build Triggers
+
+Benefits
+- Automated testing improves code quality
+- Faster feedback to developers
+- Reduced manual deployment errors
+- Improved collaboration and reliability
